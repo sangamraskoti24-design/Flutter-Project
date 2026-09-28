@@ -12,7 +12,7 @@ class democlassstate extends State<democlass>{
   Widget build(BuildContext context) {
     // TODO: implement build
    return Container(
-     child: Text("Hello hello"),
+     child: Text("Create a new branch"),
    );
   }
 
